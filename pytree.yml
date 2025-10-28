@@ -133,28 +133,28 @@ vars:
 
     # here you can define as many steps as you like
     max_levels:
-      25: 
+      25:
         max: 14
         width: 2
-      50: 
+      50:
         max: 13
         width: 2
-      75: 
+      75:
         max: 12
         width: 3
-      100: 
+      100:
         max: 11
         width: 3
-      150: 
+      150:
         max: 10
         width: 4
-      250: 
+      250:
         max: 9
         width: 4
-      350: 
+      350:
         max: 9
         width: 4
-      500: 
+      500:
         max: 8
         width: 5
       1000:
@@ -168,20 +168,20 @@ vars:
         width: 6
       100000:
         max: 6
-        width: 7           
- 
+        width: 7
+
     #****************************
     # GMF 1 support
     #****************************
-    
+
     # min LOD to query
     minLOD: 0
     max_levels_gmf1:
-      100: 
+      100:
         max: 11
-      250: 
+      250:
         max: 10
-      500: 
+      500:
         max: 9
       1000:
         max: 8
